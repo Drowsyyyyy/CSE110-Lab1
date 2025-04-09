@@ -25,7 +25,7 @@ Jump back to the [🔗 Examples of Links and Lists](#-examples-of-links-and-list
 
 ### 📁 Relative Links
 - [My Notes File](notes.md)
-- [View My Profile Picture](images/profile-pic.jpg)
+- [View My Profile Picture](profile.png)
 
 ### 🔢 Ordered List
 1. Wake up
