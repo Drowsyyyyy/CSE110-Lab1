@@ -14,7 +14,7 @@ When I'm not buried in books, you might find me 🏊‍♀️ swimming, 🚴‍�
 ```python
 def inspire():
     print("Always learning, always growing!")
-
+```
 ## 🔗 Examples of Links and Lists
 
 ### 🌍 External Link
