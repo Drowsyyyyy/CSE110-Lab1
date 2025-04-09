@@ -14,3 +14,32 @@ When I'm not buried in books, you might find me 🏊‍♀️ swimming, 🚴‍�
 ```python
 def inspire():
     print("Always learning, always growing!")
+
+## 🔗 Examples of Links and Lists
+
+### 🌍 External Link
+Visit [Google](https://www.google.com) for searching the web.
+
+### 📄 Section Link
+Jump back to the [🔗 Examples of Links and Lists](#-examples-of-links-and-lists) section.
+
+### 📁 Relative Links
+- [My Notes File](notes.md)
+- [View My Profile Picture](images/profile-pic.jpg)
+
+### 🔢 Ordered List
+1. Wake up
+2. Drink coffee
+3. Code something cool
+4. Sleep
+
+### 🔹 Unordered List
+- Markdown is fun
+- GitHub Pages are cool
+- I love learning new tech
+
+### ✅ Task List
+- [x] Create a GitHub repository
+- [x] Write `index.md` using Markdown
+- [ ] Publish with GitHub Pages
+- [ ] Add more cool content later!
